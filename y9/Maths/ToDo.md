@@ -7,5 +7,4 @@ Trig:
 Algebra
 	==solving formulas with x both sides==
 	solving formulas with x in a fraction
-	simultaneous equations 
-	 
+	simultaneous equations - same symbol (+ or -) = sub, alternate = add
