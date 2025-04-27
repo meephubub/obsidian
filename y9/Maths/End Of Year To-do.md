@@ -24,14 +24,13 @@ Standard Form
 	==multiplying standard form - add coefficients - convert to the same power 
 	dividing standard form - write as fraction - subtract coefficients==
 Circle Theorems
-	1. Radius and tangent meet at 90°.
-	2. Equal tangents from an external point.
-	3. angle = 2 × circumference.
-	4. Right angle in a semicircle.
-	5. Angles in the same segment equal.
-	6. Alternate segment theorem applies.
-	7. Opposite angles in a cyclic quadrilateral add up to 180°.
-
+	1. The radius and the tangent at the point of contact are perpendicular (meet at 90°).   
+	2. The lengths of two tangents drawn from an external point to a circle are equal.
+	3. The angle at the centre of the circle is twice the angle at the circumference subtended by the same arc.
+	4. A right angle is subtended by a semicircle.
+	5. Angles subtended by the same chord or arc, at the circumference, are equal.
+	6. The Alternate Segment Theorem applies.
+	7. The sum of the opposite angles of a cyclic quadrilateral is 180°.
 
  
 
