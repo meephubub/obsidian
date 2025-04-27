@@ -13,4 +13,6 @@ Tables
 	Finding IQR from cumulative frequency graph==
 	==Frequency polygon - use midpoint and plot as line graph==
 Decimals
-	recurring decimals to fractions 
+	==recurring decimals to fractions ==
+Standard Form
+	
