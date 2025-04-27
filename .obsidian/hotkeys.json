@@ -1,0 +1,34 @@
+{
+  "local-gpt:quick-access-1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "local-gpt:quick-access-2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Key223"
+    }
+  ],
+  "local-gpt:quick-access-4": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "local-gpt:context-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ]
+}

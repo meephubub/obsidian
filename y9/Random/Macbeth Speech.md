@@ -1,0 +1,10 @@
+My Dearest Lord and Husband,
+
+I am writing to you today, my heart full of pride, my mind troubled. I fear the crown that lay upon your head as prophesised is to heavy, its weight bending thy spirit in a way that will undo us both. I hear reports daily, whispers around the castle of your thanes discontent. I hear words speaking of oppression, of pain, and of rebellion. Our dear Scotland is suffering they all sigh, looking to their great king begging for guidance. Where are you when they call? Sending crooks after Fleance, a job you were to meek to dirty your hands with. My dear Macbeth, not even Neptune's Great Oceans could wash your hands clean
+
+You have achieved what we once whispered of in the shadows, but now, Macbeth, I implore you to use your ill-gotten power wisely. Your people need you more than ever. Dozens are fleeing daily, speaking to the hurt of our country in English; our country, hurt by you. The thanes that once honoured you now speak of your land as being under a tyrants rule, where "good men's lives expire before flowers in their cages". I have seen how the fear has changed you, Macbeth. I have seen the noble man you once used to be shudder under the weight of the crown, shrivelling to the crook you now are. I urge you, Macbeth, to work through these troubled times with me, together. 
+
+Be not afraid of what we can achieve dear Macbeth. Your nature is to full the milk of human kindness to see this reign of terror through to the end. Return, please the man I once knew as my husband - who would scorn at the thought of wearing your prickled crown. I to am changed by these most unfortunate of events, the guilt of your actions giving me many a troubled nights sleep. Please banish my horrors of the night, Macbeth. Be the king our great Scotland so tirelessly needs, firm but fair, powerful yet merciful and let your legacy be one of restoration not one of ruin.
+
+Yours Truly 
+Lady Macbeth
