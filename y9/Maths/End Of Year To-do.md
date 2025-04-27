@@ -31,6 +31,10 @@ Circle Theorems
 	5. Angles subtended by the same chord or arc, at the circumference, are equal.
 	6. The Alternate Segment Theorem applies.
 	7. The sum of the opposite angles of a cyclic quadrilateral is 180°.
+Translations
+	vectors:
+		(x) - positive x = right
+		(y) - positive y = up
 
  
 
