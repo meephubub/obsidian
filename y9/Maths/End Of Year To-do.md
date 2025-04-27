@@ -2,6 +2,9 @@
 key:
 	==kinda done==
 	not done
+Geometry
+	==finding interior angles - (n-2x180)==
+	==finding exterior angles - 360 / num. of sides==
 Trig:
 	==if in sin cos or tan how do you solve for x in the fraction ie if cos62=x/15 how do you rearrange to find x? - if x is on top, times. if x is on the bottom, divide==
 	==in a right angle triangle use trig or Pythagoras?==
@@ -20,4 +23,7 @@ Standard Form
 	==converting into standard form==
 	==multiplying standard form - add coefficients - convert to the same power 
 	dividing standard form - write as fraction - subtract coefficients==
-	
+
+ 
+
+
