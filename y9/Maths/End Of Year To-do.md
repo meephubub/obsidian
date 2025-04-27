@@ -9,4 +9,4 @@ Algebra
 	solving formulas with x in a fraction
 	==simultaneous equations - same symbol (+ or -) = sub, alternate = add. must times so the x or y are the same in both equations==
 Tables
-	what is the median?
+	The middle of 70 and 115 is 92.5.

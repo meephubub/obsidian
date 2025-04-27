@@ -33,6 +33,13 @@
   },
   "actions": [
     {
+      "name": "Answer",
+      "prompt": "users question: {{=SELECTION=}}",
+      "model": "",
+      "system": "you are a helpful assistant that answers the users question consisely, 1 or 2 sentences, no fluff, no formatting, just return the answer",
+      "replace": true
+    },
+    {
       "name": "Rewrite ",
       "prompt": "sentence to improve: {{=SELECTION=}}",
       "model": "",
