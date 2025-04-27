@@ -16,4 +16,5 @@ Decimals
 	==recurring decimals to fractions ==
 Standard Form
 	==converting out of standard form==
-	converting into standard form
+	==converting into standard form==
+	multiplying standard form - add coefficients 45x10^10 or 45000000000.
