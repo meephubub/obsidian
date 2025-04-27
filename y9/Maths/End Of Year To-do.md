@@ -35,7 +35,7 @@ Translations
 	vectors:
 		(x) - positive x = right
 		(y) - positive y = up
-
+	How do you do enlargements
  
 
 
