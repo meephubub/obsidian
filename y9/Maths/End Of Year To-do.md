@@ -23,7 +23,14 @@ Standard Form
 	==converting into standard form==
 	==multiplying standard form - add coefficients - convert to the same power 
 	dividing standard form - write as fraction - subtract coefficients==
-
+Circle Theorems
+	1. Radius and tangent meet at 90°.
+	2. Equal tangents from an external point.
+	3. angle = 2 × circumference.
+	4. Right angle in a semicircle.
+	5. Angles in the same segment equal.
+	6. Alternate segment theorem applies.
+	7. Opposite angles in a cyclic quadrilateral add up to 180°.
 
 
  
