@@ -3,3 +3,4 @@ Trig:
 	in a right angle triangle use trig or Pythagoras?
 Algebra
 	solving formulas with x both sides
+	solving formulas with x in a fraction
