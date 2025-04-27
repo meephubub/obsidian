@@ -11,4 +11,4 @@ Algebra
 Tables
 	==Finding median from cumulative frequency graph https://brainly.com/question/55078498?referrer=searchResults
 	Finding IQR from cumulative frequency graph==
-	
+	Frequency polygon - use midpoint and plot as line graph
