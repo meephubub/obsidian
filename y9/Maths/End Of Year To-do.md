@@ -17,4 +17,5 @@ Decimals
 Standard Form
 	==converting out of standard form==
 	==converting into standard form==
-	multiplying standard form - add coefficients 45x10^10 or 45000000000.
+	multiplying standard form - add coefficients - convert to the same power 
+
