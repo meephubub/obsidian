@@ -15,4 +15,5 @@ Tables
 Decimals
 	==recurring decimals to fractions ==
 Standard Form
-	
+	==converting out of standard form==
+	converting into standard form
