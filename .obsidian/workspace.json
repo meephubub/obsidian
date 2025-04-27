@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "y9/Maths/ToDo.md",
+                "file": "y9/Maths/End Of Year To-do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "End Of Year To-do"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "y9/Maths/ToDo.md",
+                "file": "y9/Maths/End Of Year To-do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ToDo"
+              "title": "Outline of End Of Year To-do"
             }
           }
         ],
@@ -174,7 +174,7 @@
   "lastOpenFiles": [
     "LICENSE",
     "y9/Maths/Topic 1 Equations & Quadratics.md",
-    "y9/Maths/ToDo.md",
+    "y9/Maths/End Of Year To-do.md",
     "y9/Random/History Causation.md",
     "y9/Random",
     "Untitled",
