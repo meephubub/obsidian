@@ -1,5 +1,5 @@
 key:
-	==done== 
+	==kinda done==
 	not done
 Trig:
 	==if in sin cos or tan how do you solve for x in the fraction ie if cos62=x/15 how do you rearrange to find x? - if x is on top, times. if x is on the bottom, divide==
@@ -9,4 +9,6 @@ Algebra
 	solving formulas with x in a fraction
 	==simultaneous equations - same symbol (+ or -) = sub, alternate = add. must times so the x or y are the same in both equations==
 Tables
+	==Finding median from cumulative frequency graph
+	Finding IQR from cumulative frequency graph==
 	
