@@ -24,6 +24,8 @@ Standard Form
 	==multiplying standard form - add coefficients - convert to the same power 
 	dividing standard form - write as fraction - subtract coefficients==
 
+
+
  
 
 
