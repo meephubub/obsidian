@@ -1,5 +1,4 @@
 
-
 1. Simplify: $$\frac{2x}{x+2}$$
 
 2. Simplify: $$\frac{x+3}{x}$$
