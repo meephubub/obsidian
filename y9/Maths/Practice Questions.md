@@ -1,10 +1,17 @@
+1. Solve for x in the equation 3/x:
 
-1. Simplify: $$\frac{2x}{x+2}$$
+---
 
-2. Simplify: $$\frac{x+3}{x}$$
+2. Solve for x in the equation x/2 = 6:
 
-3. Simplify: $$\frac{5}{x-1}$$
+---
 
-4. Simplify: $$\frac{x-2}{x+1}$$
+3. Solve for x in the equation 4/x = 8:
 
-5. Simplify: $$\frac{3x}{x-3}$$
+---
+
+4. Solve for x in the equation 2x = 12:
+
+---
+
+5. Solve for x in the equation x/3 = 4:
