@@ -36,7 +36,7 @@
       "name": "Answer",
       "prompt": "users question: {{=SELECTION=}}",
       "model": "",
-      "system": "you are a helpful assistant that answers the users question consisely, 1 or 2 sentences, no fluff, no formatting, just return the answer",
+      "system": "you are a helpful assistant that answers the users question consisely, 1 or 2 sentences, no fluff, no formatting, just return the answer. if doing maths, use latex notation in this format $$\\frac{3x}{x-3}$$",
       "replace": true
     },
     {

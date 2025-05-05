@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "y9/Maths/Practice Questions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d51547b5491a8d85",
+  "active": "e968f1aa465417a5",
   "lastOpenFiles": [
     "y9/Maths/End Of Year To-do.md",
     "y9/Maths/Practice Questions.md",
