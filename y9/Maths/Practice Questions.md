@@ -1,0 +1,1 @@
+Here are five practice questions: 3/x = 9, x/4 = 5, 2/x = 7, x/9 = 3, 5/x = 2.

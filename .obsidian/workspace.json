@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "y9/Maths/End Of Year To-do.md",
+                "file": "y9/Maths/Practice Questions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "End Of Year To-do"
+              "title": "Practice Questions"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e968f1aa465417a5",
+  "active": "d51547b5491a8d85",
   "lastOpenFiles": [
+    "y9/Maths/End Of Year To-do.md",
+    "y9/Maths/Practice Questions.md",
     "LICENSE",
     "y9/Maths/Topic 1 Equations & Quadratics.md",
-    "y9/Maths/End Of Year To-do.md",
     "y9/Random/History Causation.md",
     "y9/Random",
     "Untitled",
