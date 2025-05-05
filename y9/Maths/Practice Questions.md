@@ -1,17 +1,9 @@
-1. Solve for x in the equation 3/x:
+key:
+==done==
+not done
 
----
-
-2. Solve for x in the equation x/2 = 6:
-
----
-
-3. Solve for x in the equation 4/x = 8:
-
----
-
-4. Solve for x in the equation 2x = 12:
-
----
-
-5. Solve for x in the equation x/3 = 4:
+==1. Solve for x in the equation 3/x:==
+==1. Solve for x in the equation x/2 = 6:==
+==1. Solve for x in the equation 4/x = 8:==
+==1. Solve for x in the equation 2x = 12:==
+==1. Solve for x in the equation x/3 = 4:==
