@@ -1,0 +1,37 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1746956420658",
+      "name": "Groq",
+      "apiKey": "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",
+      "url": "https://api.groq.com/openai/v1/",
+      "type": "openai",
+      "model": "llama-3.3-70b-versatile",
+      "availableModels": [
+        "whisper-large-v3-turbo",
+        "gemma2-9b-it",
+        "playai-tts-arabic",
+        "mistral-saba-24b",
+        "distil-whisper-large-v3-en",
+        "compound-beta-mini",
+        "playai-tts",
+        "whisper-large-v3",
+        "meta-llama/llama-4-scout-17b-16e-instruct",
+        "qwen-qwq-32b",
+        "allam-2-7b",
+        "llama-3.1-8b-instant",
+        "llama-guard-3-8b",
+        "meta-llama/llama-guard-4-12b",
+        "llama3-8b-8192",
+        "deepseek-r1-distill-llama-70b",
+        "meta-llama/llama-4-maverick-17b-128e-instruct",
+        "llama-3.3-70b-versatile",
+        "llama3-70b-8192",
+        "compound-beta"
+      ]
+    }
+  ]
+}
