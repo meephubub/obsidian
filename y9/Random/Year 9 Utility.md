@@ -5,4 +5,4 @@ This source further states that “I was nervous with the postman, the milkman, 
 
 However, Source A is limited in some ways as it is written by a very outspoken critic of the Nazis and therefore might have an agenda. This being said, I know the source to be correct as ordinary citizens were encouraged to report on neighbours, co-workers, and even family members, with the Hitler's youth being set up to actively reward children tattling on their parents. Parents had no control over their children joining the Hitler Youth, as refusal to join could result in the children being taken away from their families, being seen as a political threat, making it a mandatory membership for their children.
 
-Source A also fails to show what life was like for people accepted into the Nazi German society /syn
+Source A also fails to show what life was like for people accepted into the Nazi German society as I know people got for
